@@ -4,7 +4,7 @@ function Titulo() {
   return (
     <div>
         <div>
-            <h1>Juego de numeros</h1>
+            <h1>Juego de numeros de Pablo Eduardo</h1>
             <img src={imgJuego} alt="Imagen juego"/>
         </div>
     </div>
